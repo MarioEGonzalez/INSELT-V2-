@@ -1,0 +1,17 @@
+.a{display: block;
+    width: 103px;
+    font-family: 'Times New Roman', Times, serif;
+font-weight:100px ;
+background-color: rgb(85, 85, 236);
+border-radius: 100px;
+padding: 5px 30px;
+margin:250 px  230px;
+color: white;
+text-decoration: none;
+cursor:pointer;
+}
+
+.a:hover{background-color:black;
+
+
+}
